@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dharshith%20K&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20%26%20SQL%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" alt="Banner" />
+  <img src="banner.svg" alt="Dharshith K - Data Analyst banner" width="100%" />
 </p>
 
 <!-- Animated typing line -->
