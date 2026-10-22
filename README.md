@@ -26,15 +26,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a **BCA graduate (CGPA 8.5)** from AMC Engineering College, based in **Bangalore, India**. I enjoy turning messy data into clean datasets, dashboards, and insights that people can actually use, and I like building secure, AI-powered applications on the side.
+I'm a **BCA graduate** from AMC Engineering College, based in **Bangalore, India**. I enjoy turning messy data into clean datasets, dashboards, and insights that people can actually use, and I like building secure, AI-powered applications on the side.
 
 - 🎯 **Seeking:** Data Analyst or entry-level Software / Data roles
-- 📊 **Hands-on with:** SQL, Python (Pandas, NumPy, Matplotlib), Excel, and Power BI
+- 📊 **Hands-on with:** SQL, Python, Excel, Power BI, web development 
 - 🔐 **Built:** an AI-driven identity protection system for the metaverse
-- 🌱 **Currently learning:** AI/ML, Generative AI, and advanced Power BI
-- 🤝 **Open to:** internships, full-time roles, and collaborating on data and AI projects
-- 💬 **Ask me about:** data cleaning, SQL queries, dashboards, and Python automation
-
+- 🤝 **Open to:**  full-time roles, and collaborating on data and AI projects
+- 
 ---
 
 ## 🛠️ Tech Stack
