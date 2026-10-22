@@ -1,106 +1,135 @@
-<!-- Banner -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=YOUR_NAME&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=18" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dharshith%20K&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20%26%20SQL%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" alt="Banner" />
 </p>
 
 <!-- Animated typing line -->
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+clean%2C+scalable+software;Passionate+about+open+source;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <a href="https://github.com/dxthdxth">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Turning+raw+data+into+clear+insights;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Exploring+AI%2FML+and+cybersecurity;Open+to+Data+Analyst+opportunities" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Social badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://linkedin.com/in/dharshith-kd-587a36345"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:dharshithkd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/dxthdxth"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2c5364&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=2c5364" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=dxthdxth&label=Profile%20Views&color=2c5364&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/dxthdxth?label=Followers&style=flat&color=2c5364" alt="Followers" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **[your role, e.g. Software Engineer]** based in **[City, Country]**, focused on building **[what you build, e.g. fast, accessible web apps and APIs]**. I enjoy turning complex problems into simple, maintainable solutions.
+I'm a **BCA graduate (CGPA 8.5)** from AMC Engineering College, based in **Bangalore, India**. I enjoy turning messy data into clean datasets, dashboards, and insights that people can actually use, and I like building secure, AI-powered applications on the side.
 
-- 🔭 Currently working on **[project / company]**
-- 🌱 Currently learning **[technology, e.g. Rust, System Design, Kubernetes]**
-- 🤝 Open to collaborating on **[type of projects, e.g. open-source, developer tools]**
-- 💬 Ask me about **[topics, e.g. React, Python, backend architecture]**
-- ⚡ Fun fact: **[something memorable about you]**
+- 🎯 **Seeking:** Data Analyst or entry-level Software / Data roles
+- 📊 **Hands-on with:** SQL, Python (Pandas, NumPy, Matplotlib), Excel, and Power BI
+- 🔐 **Built:** an AI-driven identity protection system for the metaverse
+- 🌱 **Currently learning:** AI/ML, Generative AI, and advanced Power BI
+- 🤝 **Open to:** internships, full-time roles, and collaborating on data and AI projects
+- 💬 **Ask me about:** data cleaning, SQL queries, dashboards, and Python automation
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**📈 Data Analytics**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go&theme=dark" alt="Languages" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" alt="Matplotlib"/>
 </p>
 
-**Frontend**
+**💻 Programming & Web Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite&theme=dark" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=py,java,c,js,html,css,react,nodejs,django&theme=dark" alt="Programming and web" />
 </p>
 
-**Backend & Databases**
+**🗄️ Databases, AI/ML & Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,postgres,mongodb,redis&theme=dark" alt="Backend" />
-</p>
-
-**DevOps & Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,figma&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,tensorflow,sklearn,opencv,git,github,vscode,unity&theme=dark" alt="Databases, AI/ML and tools" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
+| Project | What it does | Tech |
 |---|---|---|
-| [**Project One**](https://github.com/YOUR_USERNAME/project-one) | One-line description of what it does and why it matters. | `React` `Node.js` `PostgreSQL` |
-| [**Project Two**](https://github.com/YOUR_USERNAME/project-two) | One-line description of what it does and why it matters. | `Python` `FastAPI` `Docker` |
-| [**Project Three**](https://github.com/YOUR_USERNAME/project-three) | One-line description of what it does and why it matters. | `TypeScript` `Next.js` `Tailwind` |
+| **🛡️ AI-Driven Metaverse Identity Protection System** | Detects identity theft, fake avatars, deepfake misuse, and unauthorized access using AI/ML and behavior monitoring. Includes JWT authentication and a blockchain identity verification module (Ethereum / Solidity). | `Python` `TensorFlow` `Scikit-learn` `OpenCV` `Node.js` `Unity` |
+| **🎓 Student Login System with Database** | Database-driven login app with email and password authentication, MySQL user storage, and a Node.js backend. | `HTML` `CSS` `JavaScript` `Node.js` `MySQL` |
 
-> 💡 Tip: Pin your 6 best repositories on your profile and make sure each has a clear README, screenshots, and a live demo link.
+<!-- Add repo links when ready, e.g.
+| [**Project Name**](https://github.com/dxthdxth/repo-name) | ... | ... |
+-->
+
+> 📌 Tip: pin your best repositories on your profile and give each one a clear README with screenshots.
+
+---
+
+## 💼 Experience
+
+| Role | Company | Period |
+|---|---|---|
+| **Data Analyst Trainee** | Besant Technology | Jan 2026 – Apr 2026 |
+| **Data Analysis & Visualization Intern** | Vasanth & Co | Feb 2026 – Mar 2026 |
+
+**What I did**
+- Queried and joined relational tables with **SQL** to summarize business data for reporting
+- Cleaned datasets (missing values, duplicates, inconsistent formats) using **Python and Excel**
+- Automated repetitive data-prep tasks with **Python scripts**
+- Built **Pivot Tables, charts, and Power BI dashboards** to present key metrics to stakeholders
+- Identified trends and anomalies and delivered insights through structured reports
+
+---
+
+## 🏅 Certifications & Achievements
+
+- 🔐 **Cyber Aware Netizen (CAN)**: National Security Database
+- 🐍 **HP Python Certification**: HP LIFE Global
+- 🤖 **Generative AI and Content Creation** course (2026)
+- 📗 **Advanced Excel** certification: AMC College (2025)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dxthdxth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxthdxth&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=dxthdxth&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
-</p>
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Applications (BCA)**, AMC Engineering College, Bangalore (2023 – 2026), CGPA: **8.5**
 
 ---
 
 ## 📫 Let's Connect
 
-I'm always happy to talk about new ideas, collaborations, or opportunities.
+I'm open to Data Analyst and entry-level Software / Data opportunities, and always happy to talk about data, AI, or collaboration.
 
-- 📧 **Email:** you@example.com
-- 💼 **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
-- 🌐 **Portfolio:** [YOUR_PORTFOLIO.com](https://YOUR_PORTFOLIO.com)
+- 📧 **Email:** dharshithkd@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/dharshith-kd-587a36345](https://linkedin.com/in/dharshith-kd-587a36345)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" alt="Footer" />
