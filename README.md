@@ -31,7 +31,6 @@ Hi, I'm Dharshith, a BCA graduate from Bangalore who loves finding the story hid
 - 🎯 **Seeking:** Data Analyst or entry-level Software / Data roles
 - 📊 **Hands-on with:** SQL, Python (Pandas, NumPy, Matplotlib), Excel, and Power BI
 - 🔐 **Built:** an AI-driven identity protection system for the metaverse
-- 🌱 **Currently learning:** AI/ML, Generative AI, and advanced Power BI
 - 🤝 **Open to:** full-time roles, and collaborating on data and AI projects
 
 ---
