@@ -24,15 +24,41 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I'm a **BCA graduate** from AMC Engineering College, based in **Bangalore, India**. I enjoy turning messy data into clean datasets, dashboards, and insights that people can actually use, and I like building secure, AI-powered applications on the side.
+> *"Clean data in, clear insights out."*
 
-- 🎯 **Seeking:** Data Analyst or entry-level Software / Data roles
-- 📊 **Hands-on with:** SQL, Python, Excel, Power BI, web development 
-- 🔐 **Built:** an AI-driven identity protection system for the metaverse
-- 🤝 **Open to:**  full-time roles, and collaborating on data and AI projects
-- 
+Hi, I'm **Dharshith**, a BCA graduate from Bangalore who loves finding the story hiding inside messy data. I started with Python and SQL, fell for dashboards that make numbers click, and along the way ended up building an **AI-powered security system for the metaverse**. I like work where data, code, and real-world impact meet.
+
+```python
+class Dharshith:
+    name = "Dharshith K"
+    location = "Bangalore, India 📍"
+    education = "BCA, AMC Engineering College (CGPA 8.5)"
+
+    superpowers = ["SQL", "Python", "Power BI", "Excel"]
+    side_quests = ["AI/ML", "Cybersecurity", "Web Development"]
+    exploring = ["Generative AI", "Advanced Power BI", "Blockchain"]
+
+    def looking_for(self):
+        return "Data Analyst / entry-level Software & Data roles 🚀"
+
+    def open_to(self):
+        return ["Internships", "Full-time roles", "Data & AI collaborations"]
+```
+
+### ⚡ What I Bring to the Table
+
+| | |
+|---|---|
+| 🧹 **Data Cleaning** | I turn messy datasets (missing values, duplicates, inconsistent formats) into reliable, analysis-ready data |
+| 📊 **Storytelling with Data** | Pivot Tables, charts, and Power BI dashboards that make trends obvious to non-technical stakeholders |
+| 🤖 **Automation** | Python scripts that replace repetitive manual work and reduce errors |
+| 🔐 **Security Mindset** | Hands-on with JWT authentication, AI-based threat detection, and cybersecurity fundamentals |
+| 🧩 **Full-Stack Basics** | Comfortable building databases and backends with Node.js, MySQL, and REST APIs |
+
+💬 **Ask me about:** data cleaning, SQL queries, dashboards, Python automation, or building AI-based security tools.
+
 ---
 
 ## 🛠️ Tech Stack
