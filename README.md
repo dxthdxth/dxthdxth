@@ -1,10 +1,3 @@
-a<!-- ============================================================
-  HOW TO USE
-  1. Create a PUBLIC repo named exactly the same as your GitHub username
-  2. Add this file as README.md
-  3. Find & replace: YOUR_USERNAME, YOUR_NAME and the [placeholders]
-============================================================ -->
-
 <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=YOUR_NAME&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=18" alt="Banner" />
